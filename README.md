@@ -9,5 +9,5 @@ s
 
 # Install Magento
 1. Download magento folder -> https://magento.com/tech-resources/download
-2. and unzip folder in xampp->htdocs folder 
+2. and unzip folder in xampp/htdocs folder 
 3. 
