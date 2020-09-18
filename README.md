@@ -17,7 +17,9 @@ Magento\Framework\App\View\Asset\MaterializationStrategy\Symlink
 and replace it with
 Magento\Framework\App\View\Asset\MaterializationStrategy\Copy
 ```
-3. ki
+### admin black Screen
+Go to /vendor/magento/framework/View/Element/Template/File/Validator.php<br>
+$realPath = $this->fileDriver->getRealPath($path); __repalce to__ $realPath = str_replace('\\', '/', $this->fileDriver->getRealPath($path));
 
 
 # Install Magento
