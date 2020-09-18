@@ -1,5 +1,8 @@
 # Install Magento Using CMD
 
+### Requirments
+1. install composer  https://getcomposer.org/download/
+
 ### Step1:
 1. create folder in xammp/htdocs/magento_training
 2. open cmd in this dirctery
@@ -22,4 +25,13 @@ Magento\Framework\App\View\Asset\MaterializationStrategy\Copy
 2. and unzip folder in __xampp/htdocs__ folder 
 3. 
 
+### Category
+Go to admin->catalog->categories<br>
+Two Types of category<br>
+1. Add Root Category:- mutipal store ke liye root category banate hai
+2. Add Subcategory:- single category ke liye sub category
+
+```php
+
+```
 
