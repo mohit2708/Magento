@@ -31,7 +31,14 @@ Two Types of category<br>
 1. Add Root Category:- mutipal store ke liye root category banate hai
 2. Add Subcategory:- single category ke liye sub category
 
-```php
+### Product
+Go to admin->catalog->Products<br>
+1. Simple Product
+2. Configurable Product
+3. Virtual Product
+4. Grouped Product
+5. Bundle Product
+6. Downloadable Product
 
-```
+
 
