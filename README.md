@@ -21,6 +21,8 @@ Magento\Framework\App\View\Asset\MaterializationStrategy\Copy
 Go to /vendor/magento/framework/View/Element/Template/File/Validator.php<br>
 $realPath = $this->fileDriver->getRealPath($path); __repalce to__ $realPath = str_replace('\\', '/', $this->fileDriver->getRealPath($path));
 
+### Clear Cache in Magento 2
+Go to System > Tools > Cache Management.
 
 # Install Magento
 1. Download magento folder -> https://magento.com/tech-resources/download
