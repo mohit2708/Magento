@@ -40,5 +40,8 @@ Go to admin->catalog->Products<br>
 5. Bundle Product
 6. Downloadable Product
 
+### Product Attributes
+Go to admin->stores->Attributes(Product)<br>
+ex:- colour, size, ml
 
 
